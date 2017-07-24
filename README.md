@@ -3,6 +3,7 @@ This code is provided to supplement the paper:
 A guide to calculating habitat-quality metrics to inform conservation of highly mobile species. Bieri et al [Submitted to Natural Resource Modeling - 2017]
 
 This code was writen by Joanna A. Bieri and Christine Sample.
+https://zenodo.org/badge/latestdoi/98235744
 
 
 ** Occupancy Based:
